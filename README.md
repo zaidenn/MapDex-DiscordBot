@@ -1,6 +1,6 @@
 # MapDex Discord Bot
 
-[![Discord server](https://discordapp.com/api/guilds/1049118743101452329/embed.png)](https://discord.gg/jYEzGdzBPN)
+[![Discord server](https://discord.com/api/guilds/1142956517897797744/embed.png)](https://discord.gg/jYEzGdzBPN)
 [![Pre-commit](https://github.com/zaidenn/MapDex-DiscordBot/actions/workflows/pre-commit.yml/badge.svg)](https://github.com/zaidenn/MapDex-DiscordBot/actions/workflows/pre-commit.yml)
 [![Docker build](https://github.com/zaidenn/MapDex-DiscordBot/actions/workflows/docker.yml/badge.svg)](https://github.com/zaidenn/MapDex-DiscordBot/actions/workflows/docker.yml)
 [![CodeQL](https://github.com/zaidenn/MapDex-DiscordBot/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/zaidenn/MapDex-DiscordBot/actions/workflows/codeql-analysis.yml)
@@ -11,9 +11,9 @@
 
 MapDex is a bot for collecting maps on Discord and exchange them with your friends!
 
-You can invite the bot [here](https://discord.com/api/oauth2/authorize?client_id=999736048596816014&permissions=537193536&scope=bot%20applications.commands).
+You can invite the bot [here](https://discord.com/api/oauth2/authorize?client_id=1143236933921808404&permissions=537193536&scope=bot).
 
-[![Discord server](https://discordapp.com/api/guilds/1049118743101452329/embed.png?style=banner3)](https://discord.gg/jYEzGdzBPN) [![Self-host server](https://discordapp.com/api/guilds/1078701108500897923/embed.png?style=banner3)](https://discord.gg/M4gVaRrRDe)
+[![Discord server](https://discord.com/api/guilds/1142956517897797744/embed.png?style=banner2)](https://discord.gg/jYEzGdzBPN) [![Self-host server](https://discordapp.com/api/guilds/1078701108500897923/embed.png?style=banner2)](https://discord.gg/M4gVaRrRDe)
 
 ## Suggestions, questions and bug reports
 
