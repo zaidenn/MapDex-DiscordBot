@@ -1,13 +1,13 @@
 # MapDex Discord Bot
 
-[![Discord server](https://discordapp.com/api/guilds/1049118743101452329/embed.png)](https://discord.gg/Qn2Rkdkxwc)
-[![Pre-commit](https://github.com/laggron42/BallsDex-DiscordBot/actions/workflows/pre-commit.yml/badge.svg)](https://github.com/laggron42/BallsDex-DiscordBot/actions/workflows/pre-commit.yml)
-[![Docker build](https://github.com/laggron42/BallsDex-DiscordBot/actions/workflows/docker.yml/badge.svg)](https://github.com/laggron42/BallsDex-DiscordBot/actions/workflows/docker.yml)
-[![CodeQL](https://github.com/laggron42/BallsDex-DiscordBot/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/laggron42/BallsDex-DiscordBot/actions/workflows/codeql-analysis.yml)
-[![Issues](https://img.shields.io/github/issues/laggron42/BallsDex-DiscordBot)](https://github.com/laggron42/BallsDex-DiscordBot/issues)
+[![Discord server](https://discordapp.com/api/guilds/1049118743101452329/embed.png)](https://discord.gg/jYEzGdzBPN)
+[![Pre-commit](https://github.com/zaidenn/MapDex-DiscordBot/actions/workflows/pre-commit.yml/badge.svg)](https://github.com/zaidenn/MapDex-DiscordBot/actions/workflows/pre-commit.yml)
+[![Docker build](https://github.com/zaidenn/MapDex-DiscordBot/actions/workflows/docker.yml/badge.svg)](https://github.com/zaidenn/MapDex-DiscordBot/actions/workflows/docker.yml)
+[![CodeQL](https://github.com/zaidenn/MapDex-DiscordBot/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/zaidenn/MapDex-DiscordBot/actions/workflows/codeql-analysis.yml)
+[![Issues](https://img.shields.io/github/issues/zaidenn/MapDex-DiscordBot)](https://github.com/zaidenn/MapDex-DiscordBot/issues)
 [![discord.py](https://img.shields.io/badge/discord-py-blue.svg)](https://github.com/Rapptz/discord.py)
 [![Black coding style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
-[![Patreon](https://img.shields.io/badge/Patreon-donate-orange.svg)](https://patreon.com/retke)
+[![Laggron's Patreon](https://img.shields.io/badge/Patreon-donate-orange.svg)](https://patreon.com/retke)
 
 MapDex is a bot for collecting maps on Discord and exchange them with your friends!
 
