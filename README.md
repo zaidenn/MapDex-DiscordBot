@@ -13,7 +13,7 @@ MapDex is a bot for collecting maps on Discord and exchange them with your frien
 
 You can invite the bot [here](https://discord.com/api/oauth2/authorize?client_id=999736048596816014&permissions=537193536&scope=bot%20applications.commands).
 
-[![Discord server](https://discordapp.com/api/guilds/1049118743101452329/embed.png?style=banner3)](https://discord.gg/Qn2Rkdkxwc) [![Self-host server](https://discordapp.com/api/guilds/1078701108500897923/embed.png?style=banner3)](https://discord.gg/M4gVaRrRDe)
+[![Discord server](https://discordapp.com/api/guilds/1049118743101452329/embed.png?style=banner3)](https://discord.gg/jYEzGdzBPN) [![Self-host server](https://discordapp.com/api/guilds/1078701108500897923/embed.png?style=banner3)](https://discord.gg/M4gVaRrRDe)
 
 ## Suggestions, questions and bug reports
 
@@ -31,7 +31,7 @@ More sections are added progressively.
 
 ## Supporting
 
-If you appreciate my work, you can support me on my [Patreon](https://patreon.com/retke)!
+If you appreciate Laggron's work, you can support him on his [Patreon](https://patreon.com/retke)!
 
 ## Contributing
 
